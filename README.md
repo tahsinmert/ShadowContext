@@ -90,4 +90,4 @@ Distributed under the **MIT License**. See `LICENSE` (if available) for more inf
 
 ---
 
-*Built with ❤️ for the AI-Assisted Developer community.*
+*Built with ❤️ by Tahsin Mert Mutlu.*
